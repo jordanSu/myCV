@@ -12,12 +12,89 @@ body {
     margin: -5em 0 0 0;
 }
 
-#cv_content {
-    width: 70%;
+#cv_body {
+    width: 70em;
     margin: 5em auto 0px auto;
     height: 1500px;
     background-color: white;
     z-index: 2;
+    opacity: 0.97;
+    box-shadow: 0.1em 0.1em 2em grey;
+}
+
+#left_sidebar {
+    width: 35%;
+    height: 100%;
+    background-color: #111111;
+    text-align: center;
+    color: white;
     position: relative;
-    opacity: 0.95;
+    float: left;
+}
+
+#right_content {
+    float: left;
+    margin-left: 2em;
+}
+
+#mypic {
+    width: 80%;
+    height: 19.6em;
+    margin-top: 2em;
+    border-radius: 20em;
+}
+
+#name {
+    margin: 0em 0.8em -0.3em 0em;
+    text-transform: uppercase;
+    text-align: right;
+    line-height: 1em;
+    font-size: 500%;
+    font-family: monospace;
+}
+
+.left_topic {
+    text-align: left;
+    font-family: monospace;
+    font-size: 2em;
+    margin-left: 0.5em;
+    margin-top: 2em;
+    margin-bottom: 0em;
+}
+
+.left_hr {
+    width: 70%;
+    margin-left: 0px;
+    margin-bottom: 0.5em;
+}
+
+h4 {
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.7em;
+    margin-left: 1em;
+    margin-bottom: 0.3em;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+h5 {
+    margin-top: 0px;
+    margin-left: 1.5em;
+    text-align: left;
+    font-size: 1.25em;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+.right_topic {
+    text-align: left;
+    font-family: monospace;
+    font-size: 2em;
+    margin-left: 0.5em;
+    margin-bottom: 0em;
+}
+
+.right_hr {
+    width: 100%;
+    margin-left: 0.8em;
 }
