@@ -1,0 +1,178 @@
+{
+    "English": {
+        "Name": "Yang-Che, Su",
+        "Image": "myPic.jpg",
+        "left": {
+            "Contacts": {
+                "Phone": "(+886)0987-340-039",
+                "Email": "newjordansu1126@gmail.com",
+                "LinkedIn": "https://www.linkedin.com/in/jordansu"
+            },
+            "Language Skills": {
+                "Chinese": "Native",
+                "English": "Business Level",
+                "Japanese": "Beginners"
+            },
+            "Programming Skills": {
+                "C/C++": 70,
+                "Javascript": 80,
+                "Android App": 60
+            }
+        },
+        "right": {
+            "Objective": ["Be an advanced Mobile App and Web developer.", "Looking forward to collaborating with foreign partners."],
+            "Education": [
+                {
+                    "Time": "2012-2016",
+                    "Title": "National Cheng Kung University, Tainan, Taiwan",
+                    "Content": ["Bachelor of Industrial and Information Management (GPA: 3.7)",
+                                "Backelor of Computer Science and Infromation Engineering (GPA: 3.7)"]
+                },
+                {
+                    "Time": "2017-____",
+                    "Title": "National Taiwan University, Taipei, Taiwan",
+                    "Content": "Master of Information Management"
+                }
+            ],
+            "Achievements and Certificate": [
+                "Top 5% students in 2012, 2013 academic year",
+                "TOEIC: Score 870",
+                {
+                    "2015 MIT x NCTU Beyond future mobility summer workshop": [
+                        "Top 16 award and reach the finals",
+                        "Our team's product \"EV System\"",
+                        "We build a system to make vehicle sharing efficient"
+                    ]
+                },
+                {
+                    "2015 Mei-Chu Hackathon": [
+                        "UI/UX Design Award",
+                        "Our team's product \"Feed me\"",
+                        "A platform for users who want to share their food with others"
+                    ]
+                }
+            ],
+            "Extra-curricular Activities": [
+                {
+                    "2013-2015 Information Management Camp (IMC)": [
+                        "A camp for high school students to learn information management",
+                        "Instructor of IMC in 2014, 2015"
+                    ]
+                },
+                {
+                    "2013 AIESEC International Camp": [
+                        "A camp for junior high students to learn internationally",
+                        "With assistance of international volunteers from other countries",
+                        "Volunteer for 192 hrs"
+                    ]
+                },
+                {
+                    "2015 NTU Hackathon": [
+                        "The biggeest Hackathon ever in Asia",
+                        "Over 200 teams from all over the world joined"
+                    ]
+                }
+            ],
+            "Leadership Experience": [
+                {
+                    "2013-2015 Industrial Information Management Student Association":
+                    {
+                        "Vice President for General Affairs":
+                        {
+                            "Property Management": ["Establish a property management rule to manage property well"],
+                            "Budget Planning and Controlling": ["Make both ends meet after deficit for three consecutive years"]
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "Chinese": {
+        "Name": "蘇揚哲",
+        "Image": "myPic.jpg",
+        "left": {
+            "聯絡資訊": {
+                "Phone": "(+886)0987-340-039",
+                "Email": "newjordansu1126@gmail.com",
+                "LinkedIn": "https://www.linkedin.com/in/jordansu"
+            },
+            "語言能力": {
+                "Chinese": "母語",
+                "English": "商業會話程度",
+                "Japanese": "初學者"
+            },
+            "程式語言能力": {
+                "C/C++": 70,
+                "Javascript": 80,
+                "Android App": 60
+            }
+        },
+        "right": {
+            "目標": ["透過工作經驗提升自己以成為一位Web或Mobile App開發者.", "非常樂意能夠與來自各地的人合作"],
+            "教育程度": [
+                {
+                    "Time": "2012-2016",
+                    "Title": "台灣台南市 國立成功大學",
+                    "Content": ["工業與資訊管理學 學士 (GPA: 3.7)",
+                                "資訊工程學 學士 (GPA: 3.7)"]
+                },
+                {
+                    "Time": "2017-____",
+                    "Title": "台灣台北市 國立台灣大學",
+                    "Content": "資訊管理學 碩士班"
+                }
+            ],
+            "成就與檢定": [
+                "2012, 2013年書卷獎 (Top 5%)",
+                "TOEIC: 870分",
+                {
+                    "2015 MIT x NCTU 未來綠能及智慧行動車工作坊": [
+                        "獲選前十六名作品並進入決賽",
+                        "我們組別的產品名為 \"EV System\"",
+                        "我們建立一個系統使得車輛共享能夠更有效率的運作"
+                    ]
+                },
+                {
+                    "2015 梅竹黑客松": [
+                        "UI/UX 設計獎",
+                        "我們組別的產品名為 \"Feed me\"",
+                        "我們建立一個平台讓使用者能夠與他人分享食物"
+                    ]
+                }
+            ],
+            "課外活動參與": [
+                {
+                    "2013-2015 資訊管理科學營(IMC)": [
+                        "一個讓高中生可以更認識資管系的營隊",
+                        "2014, 2015年 IMC講師"
+                    ]
+                },
+                {
+                    "2013 AIESEC 創意設計英語夏令營": [
+                        "一個讓國中生可以更國際化的學習英文與認識世界",
+                        "與來自世界各國的國際志工一同舉辦此營隊",
+                        "擔任志工 時數: 192小時"
+                    ]
+                },
+                {
+                    "2015 台大黑客松": [
+                        "當時亞洲規模最大的黑客松",
+                        "超過200隊來自世界各國的隊伍參加"
+                    ]
+                }
+            ],
+            "社團領導經驗": [
+                {
+                    "2013-2015 工業與資訊管理學系 系學會":
+                    {
+                        "總務長":
+                        {
+                            "財產管理": ["建立財產管理制度以讓財產的借出與歸還更確實與透明"],
+                            "預算編列與控制": ["在連續三年的虧損後首次達到收支平衡"]
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
